@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndLoad</string>
+    <string name="accessibility_description">This service is used for automated policy enforcement and system health monitoring.</string>
+</resources>
